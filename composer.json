@@ -1,0 +1,19 @@
+{
+    "name": "skeleton/logger",
+    "description": "Simple telemetry logger",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skeleton\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teodor R.",
+            "email": "skeleton_sn@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
